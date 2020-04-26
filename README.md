@@ -1,4 +1,4 @@
 # Tree 🌲
-Tree CSS Framework
+Tree CSS library
 
-## You will forget to use !important because in Tree CSS everything important!
+## Use the power withour losing performance!
