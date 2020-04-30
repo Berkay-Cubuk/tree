@@ -1,4 +1,4 @@
 # Tree 🌲
 Tree CSS library
 
-## Use the power withour losing performance!
+## Use the power without losing performance!
